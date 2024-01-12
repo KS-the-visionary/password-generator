@@ -3,6 +3,7 @@
 Randomly generates a Password of specified length and settings and copies it to the clipboard.
 Built using Python and Flet.
 
+![Password Generator](https://github.com/KS-the-visionary/password-generator/blob/main/pic.png)
 
 # Steps to run the source:
 - Clone the source
